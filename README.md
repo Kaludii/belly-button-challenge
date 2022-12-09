@@ -41,10 +41,10 @@ The dataset revealed that a small handful of microbial species (also called oper
 
 5. Displayed each key-value pair from the metadata JSON object somewhere on the page.
 
-![hw](Images/Demographics_Info.png)
+![Demographics_Info](Images/Demographics_Info.png)
 
 6. Updated all the plots when a new sample is selected.
 
-![hw](Images/Full_Dashboard.png)
+![Dashboard](https://i.ibb.co/JxS2Z5M/Dashboard.png)
 
 7. Deployed the app to GitHub Pages.
