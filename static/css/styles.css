@@ -1,0 +1,89 @@
+body {
+  background-image: linear-gradient(to right, rgb(0, 174, 255) , rgb(255, 0, 221));
+}
+
+.js-plotly-plot .plotly {
+  background-color: rgba(214, 21, 253, 0.75);
+}
+
+p {
+color: rgb(174, 24, 219);
+font-family: 'sans-serif';
+font-size: 16px;
+}
+
+.h5 {
+  font-family: 'sans-serif';
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.box {
+  margin-top: 50px;
+  margin-bottom: 60px;
+  padding: 10px 30px 10px;
+  color: #ffffff;
+  background-image: linear-gradient(rgb(255, 239, 239) , rgb(206, 195, 255));
+
+}
+
+.well {
+  background-image: linear-gradient(to right, #07b786 , rgb(118, 80, 255));
+  background-size: cover;
+  border-style: solid;
+}
+
+.js-plotly-plot .plotly {
+  background-image: linear-gradient(to right, rgb(66, 78, 253) , rgb(118, 80, 255));
+  background-size: cover;
+  color: rgb(39, 79, 138);
+  border-style: solid;
+}
+
+.js-plotly-plot .plotly .user-select-none {
+  background-image: linear-gradient(to right, rgb(66, 78, 253) , rgb(118, 80, 255));
+  background-size: cover;
+  color: rgb(39, 79, 138);
+  border-style: solid;
+}
+
+.js-plotly-plot {
+  background-image: linear-gradient(to right, rgb(66, 78, 253) , rgb(118, 80, 255));
+  color: rgb(39, 79, 138);
+}
+
+.panel-body {
+  background-image: linear-gradient(to right, rgb(177, 180, 7) , rgb(219, 104, 10));
+  background-size: cover;
+}
+
+.jumbotron {
+  background-image: linear-gradient(to right, rgb(0, 247, 255) , rgb(10, 219, 167));
+  background-size: cover;
+  border-style: solid;
+}
+
+
+.jumbotron .h1 {
+  font-family: 'Verdana';
+  font-weight: bold;  
+}
+
+
+.header-font {
+  font-family: 'Verdana';
+}
+
+.demo-text {
+  font-size: 12px;
+}
+
+.card .card-header {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#selDataset {
+  font-size: 12px;
+  background-color: #cfb101cc;
+}

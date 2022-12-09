@@ -1,6 +1,11 @@
-# Unit 14 Homework: Belly Button Biodiversity
+---
+# title: "Unit 14 Homework: Belly Button Biodiversity"
+---
 
-For this assignment, the goal was to build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
+# Site
+Click [Here](https://kaludii.github.io/belly-button-challenge/ "Here") To View The Dashboard!
+
+For this assignment, the goal was to build an interactive dashboard to explore the [Belly Button Biodiversity Dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
 The dataset revealed that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
@@ -16,7 +21,7 @@ The dataset revealed that a small handful of microbial species (also called oper
 
   * Used `otu_labels` as the hovertext for the chart.
 
-  ![bar Chart](Images/hw01.png)
+  ![bar Chart](Images/Bar_Chart.png)
 
 3. Created a bubble chart that displays each sample.
 
@@ -36,20 +41,10 @@ The dataset revealed that a small handful of microbial species (also called oper
 
 5. Displayed each key-value pair from the metadata JSON object somewhere on the page.
 
-![hw](Images/hw03.png)
+![hw](Images/Demographics_Info.png)
 
 6. Updated all the plots when a new sample is selected.
 
-![hw](Images/hw02.png)
+![hw](Images/Full_Dashboard.png)
 
 7. Deployed the app to GitHub Pages.
-
-## Advanced Challenge Assignment (Optional)
-
-* Adapted the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
-
-* Modified the example gauge code to account for values ranging from 0 through 9.
-
-* Updated the chart whenever a new sample is selected.
-
-![Weekly Washing Frequency Gauge](Images/gauge.png)
